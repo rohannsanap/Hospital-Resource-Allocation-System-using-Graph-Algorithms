@@ -16,9 +16,6 @@ To model a real-world system for managing hospital resources effectively while a
 * Calculate cost-efficient paths between departments.
 * Allocate and track resources across departments.
 
-## 🖥️ Demo
-
-*(Add CLI output screenshots or a Loom demo link here if desired)*
 
 ## 🛠️ Tech Stack
 
