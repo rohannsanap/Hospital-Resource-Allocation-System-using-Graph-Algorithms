@@ -100,7 +100,7 @@ HospitalResourceAllocator/
 ├── HospitalResourceAllocator.java
 ├── README.md
 └── test/
-    └── HospitalResourceAllocatorTest.java
+└── HospitalResourceAllocatorTest.java
 
 📝 Future Improvements
 
